@@ -1,0 +1,14 @@
+# environments and caches
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+
+# downloaded archive (the four small .data files ARE committed)
+data/heart_disease.zip
+
+# scratch
+run.log
+executed.ipynb
