@@ -1,0 +1,4 @@
+,Logistic Regression,Random Forest,Gradient Boosting
+Logistic Regression,1.0,0.81,0.76
+Random Forest,0.81,1.0,0.92
+Gradient Boosting,0.76,0.92,1.0

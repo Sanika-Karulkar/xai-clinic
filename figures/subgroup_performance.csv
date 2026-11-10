@@ -1,0 +1,13 @@
+subgroup,n,disease rate,AUC
+all patients,918,0.55,0.879
+female,193,0.26,0.856
+male,725,0.63,0.859
+age < 50,291,0.38,0.898
+age 50-59,374,0.57,0.866
+age 60+,253,0.73,0.807
+hospital: cleveland,303,0.46,0.886
+hospital: hungarian,293,0.36,0.877
+hospital: switzerland,123,0.93,n/a (too few)
+hospital: va,199,0.74,0.72
+sparse records (3+ core values missing),55,0.64,0.726
+dense records,863,0.55,0.885

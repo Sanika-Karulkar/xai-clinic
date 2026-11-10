@@ -1,0 +1,4 @@
+tier,patients,observed_rate,mean_predicted
+Low,268,0.108,0.147
+Moderate,257,0.525,0.514
+High,393,0.875,0.854

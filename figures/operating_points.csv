@@ -1,0 +1,4 @@
+operating point,threshold,sensitivity,specificity,flagged /1000,cases caught,cases missed,false alarms,PPV,NPV,cost /1000
+default (0.50),0.5,0.833,0.732,325,83.3,16.7,241,0.257,0.9753,325
+90%-sensitivity,0.4,0.902,0.683,376,90.2,9.8,285,0.24,0.9843,334
+cost-optimal,0.7,0.696,0.902,157,69.6,30.4,88,0.442,0.9639,240

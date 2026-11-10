@@ -1,0 +1,5 @@
+variant,Logistic Regression,Random Forest
+raw features only,0.878 +/- 0.030,0.874 +/- 0.027
+raw + 2 engineered (PRIMARY),0.877 +/- 0.030,0.876 +/- 0.028
+raw + all 4 engineered,0.877 +/- 0.028,0.875 +/- 0.027
+PRIMARY + missing-flags,0.891 +/- 0.026,0.884 +/- 0.026

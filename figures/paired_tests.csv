@@ -1,0 +1,4 @@
+comparison,mean AUC diff,95% CI,p-value
+Random Forest - Logistic Regression,-0.0016,"[-0.017, 0.013]",0.811
+Gradient Boosting - Logistic Regression,0.0026,"[-0.014, 0.019]",0.731
+Random Forest - Gradient Boosting,-0.0042,"[-0.015, 0.006]",0.392

@@ -1,0 +1,19 @@
+hospital,n,model,missing-flags,AUC,Brier,actual_prev,mean_pred
+cleveland,303,Logistic Regression,no,0.826,0.201,0.46,0.61
+cleveland,303,Random Forest,no,0.84,0.175,0.46,0.55
+cleveland,303,Gradient Boosting,no,0.841,0.171,0.46,0.55
+cleveland,303,Logistic Regression,yes,0.886,0.196,0.46,0.62
+cleveland,303,Random Forest,yes,0.869,0.193,0.46,0.61
+cleveland,303,Gradient Boosting,yes,0.85,0.168,0.46,0.55
+hungarian,293,Logistic Regression,no,0.876,0.146,0.36,0.47
+hungarian,293,Random Forest,no,0.851,0.174,0.36,0.52
+hungarian,293,Gradient Boosting,no,0.852,0.163,0.36,0.47
+hungarian,293,Logistic Regression,yes,0.896,0.136,0.36,0.47
+hungarian,293,Random Forest,yes,0.882,0.177,0.36,0.55
+hungarian,293,Gradient Boosting,yes,0.882,0.172,0.36,0.55
+va,199,Logistic Regression,no,0.729,0.175,0.74,0.65
+va,199,Random Forest,no,0.698,0.188,0.74,0.64
+va,199,Gradient Boosting,no,0.706,0.197,0.74,0.65
+va,199,Logistic Regression,yes,0.737,0.176,0.74,0.64
+va,199,Random Forest,yes,0.719,0.19,0.74,0.62
+va,199,Gradient Boosting,yes,0.711,0.2,0.74,0.62
